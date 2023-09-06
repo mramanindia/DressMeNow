@@ -1,8 +1,5 @@
 # personalizing_shoppping
 A Revolution to Personalize Shopping (Revolutionizing Ecommerce) 
-
-# personalizing_shoppping
-A Revolution to Personalize Shopping (Revolutionizing Ecommerce) 
 </br>
 
 ## Idea: 

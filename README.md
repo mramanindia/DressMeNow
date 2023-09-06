@@ -12,4 +12,4 @@ Using Images uploaded by the customer, Integrating it with a product to make the
 In simple terms, Take the example of a hoodie, From the Puma brand, There is a beautiful blue color hoodie that is on the Rakuten Ichiba platform for sell, Now we will use our AI model to create a picture of the customer wearing that hoodie and how it will be on appear on him.
 
 ## Technology use:
-Artificial intelligence, Augmented reality
+Artificial intelligence (Computer Vision) , Augmented reality

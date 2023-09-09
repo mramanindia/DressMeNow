@@ -5,7 +5,7 @@ import Product from "./Product/Product";
 import useStyles from "./styles";
 import productList from "../../ProductList";
 import "./Products.css";
-import Background from "./../../assets/bg.jpg";
+// import Background from "./../../assets/bg.jpg";
 
 const Products = ({ onAddToCart }) => {
   const classes = useStyles();

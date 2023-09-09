@@ -11,9 +11,9 @@ import item1 from "./assets/item1.jpg";
 import item2 from "./assets/item2.jpg";
 import item3 from "./assets/item3.jpg";
 import item4 from "./assets/item4.jpg";
-import output1 from "./assets/output1.jpg";
-import output2 from "./assets/output2.jpg";
-import output3 from "./assets/output3.jpg";
+import output1 from "./assets/output2.jpg";
+import output2 from "./assets/output3.jpg";
+import output3 from "./assets/output1.jpg";
 import output4 from "./assets/output4.jpg";
 
 const image0 =

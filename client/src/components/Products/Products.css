@@ -1,0 +1,11 @@
+.background-wrapper {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1.4em;
+  background-image: url("https://im3.ezgif.com/tmp/ezgif-3-5fddc2d829.gif");
+}
+
+.background-wrapper-bottom {
+}
